@@ -43,7 +43,7 @@ stlearn==0.3.2
 
 ## 2.1 Overall
 
-The SRPNet model is implemented in ***SRPNet***.The program is divided into three parts: Multi-layer feature selection 1, Multi-layer feature selection 2, Deep fusion network.
+The SRPNet model is implemented in ***SRPNet***. The program is divided into three parts: Multi-layer feature selection 1, Multi-layer feature selection 2, Deep fusion network.
 
 
 ## 2.2 Usage
